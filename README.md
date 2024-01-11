@@ -30,7 +30,7 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-<img src="./images/Initial_home_page_look.png">
+<img src="./images/initial_home_page_look.png">
 
 We need to enter a roll number 
 
@@ -76,7 +76,7 @@ If roll number is valid and that roll number is existnig in database
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
+  git clone https://github.com/rahiaag/Student_Form.git
   ```
   After cloning 
   
