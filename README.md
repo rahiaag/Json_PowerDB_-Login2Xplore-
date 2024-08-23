@@ -83,7 +83,6 @@ If roll number is valid and that roll number is existnig in database
   Move to **public_html** and then **script** folder and in **script.js** file replace the **connectionToken** by with your Connection Token
   
   # Sources
-  * Introduction to JsonPowerDB - V2.0 course  on https://careers.login2explore.com/
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
   
 
